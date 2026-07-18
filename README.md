@@ -114,7 +114,12 @@ RequirementHow it was addressedAsk meaningful questions about the dataset before
 
 SQL Server, SSMS
 
-
+Key Findings
+- Technology has the highest profit despite lower sales than Furniture, showing Furniture has margin issues.
+- Tables and Bookcases sub-categories operate at a net loss — likely over-discounted.
+- West region has the best profit margin (14.94%), Central the worst (7.92%).
+- High discounts (50%+) correlate strongly with negative average profit, confirming the hypothesis.
+- Medium discount band performs worse than High — suggests inconsistent discount policy on specific sub-categories, not just discount size.
 
 Repository Structure
 
