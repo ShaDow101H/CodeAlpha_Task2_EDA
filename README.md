@@ -133,7 +133,7 @@ Repository Structure
 
 ├── README.md
 
-├── superstore_analysis.sql
+├── SuperStore_EDA.sql
 
 └── screenshots/
 
