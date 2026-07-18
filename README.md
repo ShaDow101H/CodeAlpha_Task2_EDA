@@ -108,6 +108,14 @@ Group orders into discount bands (No Discount, Low, Medium, High) and compare av
 
 Screenshot: SuperStore_16.png
 
+17. Visual Dashboard (Power BI)
+
+Built an interactive dashboard visualizing Category-level performance, the impact of Discount 
+Bands on average profit, Regional profitability, and Top 5 Cities by Sales — bringing the 
+SQL EDA findings into a visual, easy-to-read format.
+
+Screenshot: SuperStore_Dashboard.png
+
 Task 2 Requirements — How This Project Meets Them
 
 RequirementHow it was addressedAsk meaningful questions about the dataset before analysisQueries 3–8 explore revenue, profit, category, segment, city, and regional performanceExplore the data structure, including variables and data typesQueries 9–10 check schema, column types, and cardinalityIdentify trends, patterns and anomalies within the dataQueries 4–8 (performance patterns), 13–14 (outliers)Test hypotheses and validate assumptions using statisticsQuery 16 tests and confirms that higher discounts correlate with lower profitDetect potential data issues or problems to address in further analysisQueries 11 (NULLs), 12 (invalid sales), 15 (duplicates) — plus the decimal-parsing import bug found and fixed before analysis beganTools Used
